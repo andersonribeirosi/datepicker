@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "datepicker"
+    }
+  },
+  "defaultProject": "datepicker",
+  "cli": {
+    "analytics": "31a3ca9d-b401-484d-9c9e-3dc3b35a81e4"
+  }
 }
